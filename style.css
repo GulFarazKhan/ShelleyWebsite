@@ -1,0 +1,105 @@
+.navbar{
+    background-color: #6495ED !important;
+}
+.hading{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.nav-item:hover{
+    background-color: #00ff00 !important;
+    
+}
+.dropdown-item:hover{
+    background-color:  #FF00FF !important;
+}
+
+
+ .card{
+     margin-left: 10px !important;
+    box-shadow: 5px 5px 5px gray !important;
+    justify-content: space-around !important;
+    margin-top: 20px !important;
+    display: inline-block !important;
+    margin-left: 100px !important;
+
+}
+.card:hover{
+    background-color: #ff148f !important;
+}
+.alpha{
+    flex-direction: row !important;
+
+}
+
+.para{
+    font-weight: bold;
+    color: deeppink;
+    text-align: justify;
+    font-size: 20px;
+    margin: 20px 10px 20px 10px;
+
+    
+}
+.Q{
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: salmon;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.fa{
+    font-size: x-large;
+    color: indianred !important;
+    text-align: center !important;
+}
+#faq{
+    font-size: 50px;
+    font: outline;
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
+.txt{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+    font-size: larger;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.pagh{
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgb(206, 238, 222);
+    color: rgb(226, 44, 44);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ body {background-color: gainsboro !important; } 
+ .container{
+    align-items: center !important;
+    padding-left: 250px !important;
+    padding-top: 50px;
+ }
+ .delta{
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: sans-serif;
+     background-color: rgb(41, 197, 245);
+     color: rgb(250, 15, 15);
+     margin: 20px 10px 20px 10px;
+ }
+ .card-img-top{
+     display: inline-table !important;
+ }
+ .btn-primary:hover{
+     background-color: #ff7214 !important;
+
+ }
